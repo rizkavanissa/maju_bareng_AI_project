@@ -5,5 +5,7 @@ This project features an LLM model who can help users with learning about the la
 
 # How to Run
 On the terminal, please run the following commands for each file.
-## python llm.py
-## streamlit run ui.py
+```
+python llm.py 
+streamlit run ui.py
+```
